@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Chapter1
+layout: page
+title: About
 ---
 ***About***
 
