@@ -16,3 +16,5 @@ tagline: "A basic guide to Digital Art Hsitory"
 
 # Build settings
 markdown: kramdown
+kramdown:
+    auto_ids: false
