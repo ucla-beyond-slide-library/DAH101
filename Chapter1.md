@@ -2,7 +2,6 @@
 layout: page
 title: Chapter 1: Introduction/ Overview to DH and DAH
 ---
-
 *Digital Art History has a set of needs that can be more specific than what most Digital Humanities
 guides offer.  In this chapter, both fields are introduced and the differences between Digital Humanities (DH) and Digital Art History (DAH) are clarified.*
 
@@ -79,11 +78,11 @@ An excellent list that includes the tools, tutorials, and resources that Alan Li
 
 *While the other chapters will offer projects more specific to the chapter topic, here is a list of Museum Digital Projects that are good to know for anyone getting to know the field of Digital Art History. Also, see the project lists compiled by the Center for History and New Media at George Mason University: [Art History Collections (Highlights)](http://arthistory2014.doingdh.org/art-history-collections-highlights/) and [Digital Art History Web Highlights](http://arthistory2014.doingdh.org/digital-art-history-web-highlights/).*
 
-_Overviews_
+Overviews
 
 [The Digital Museum](http://thedigitalmuseum.tumblr.com/): A blog presenting noteworthy digital projects in the cultural sector.
 
-_Visualizations and Analyses of Museum Data_
+Visualizations and Analyses of Museum Data
 
 [“Hacking on Cooper-Hewitt’s Data Release at THATCamp, or, How to Get Me to Work for Free”](http://hackingthehumanities.org/post/hacking-cooper-hewitts-data-release-thatcamp-or-how-get-me-work-free): An article by Patrick Murray-John discussing his initial attempt to work with the Cooper-Hewitt’s open dataset, including some of the complications and possibilities for future projects.
 
@@ -108,7 +107,7 @@ Mia Ridge discusses her attempt to work with the Cooper-Hewitt’s open data usi
 
 [Colour Lens, MetaLAB](http://colourlens.org/): An interface for exploring works of art (from the Walker, the Wolfsonian, and the Rijksmuseum) by color.
 
-_Noteworthy Catalogues and Interfaces to Collections_
+Noteworthy Catalogues and Interfaces to Collections
 
 [Online Editions, National Gallery of Art](http://www.nga.gov/content/ngaweb/research/online-editions.html): Collection images are presented in a book-like environment that allows for side-by-side exploration, enhanced search, and the presentation of peer-reviewed scholarship.
 
@@ -131,7 +130,7 @@ relationships](http://qldarch.net/beta/?page_id=5#/architect/relationships?archi
 
 [Smithsonian X3D](http://3d.si.edu/browser): Smithsonian experts use cutting-edge 3D visualization techniques to take visitors on guided tours of artifacts.
 
-_Artist and Audience Engagement Strategies_
+Artist and Audience Engagement Strategies
 
 [Artists Respond, LACMA](http://www.lacma.org/artists-respond): Artists respond to LACMA exhibitions.
 
@@ -153,7 +152,7 @@ _Artist and Audience Engagement Strategies_
 
 [Art Swipe, LACMA](http://www.lacma.org/artswipe): iPad app that allows patrons to create their own collages from LACMA’s catalog.
 
-_Additional Museum Projects_
+Additional Museum Projects
 
 [Steve](http://www.steve.museum/): A social-tagging project that includes the collections of a number of different institutions.
 
