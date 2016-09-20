@@ -2,7 +2,9 @@
 layout: page
 title: 2. Scoping and Structuring Your Work - Data, Metadata, and Project Management
 ---
-***2.1 Readings***
+*A successful digital art history project starts with good data that is well managed. Chapter 2 focuses on what art historical data is and how it can be organized to start a digital project. The resources in this chapter will explain best practices for data cleaning, storage, and standards for art historical content.  
+
+**2.1 Readings**
 
 [Appleford, Simon, and Jennifer Guiliano. “Designing Your First Project.” DevDH.org, 2013.](http://devdh.org/lectures/design/)
 
