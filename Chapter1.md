@@ -3,8 +3,8 @@ layout: page
 title: Chapter 1: Introduction/ Overview to DH and DAH
 ---
 
-Digital Art History has a set of needs that can be more specific than what most Digital Humanities
-guides offer.  In this chapter, both fields are introduced and the differences between Digital Humanities (DH) and Digital Art History (DAH) are clarified.
+*Digital Art History has a set of needs that can be more specific than what most Digital Humanities
+guides offer.  In this chapter, both fields are introduced and the differences between Digital Humanities (DH) and Digital Art History (DAH) are clarified.*
 
 1.1 Readings
 
@@ -44,7 +44,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 
 [DH Toychest: Guides and Introductions](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244275/Guides%20and%20Introductions): A set of resources curated by Alan Liu that includes information on academic blogging and tweeting, the job market for DH graduate students, and evaluating DH scholarship for promotion and tenure.
 
-[The CUNY Digital Humanities Resource Guide](http://commons.gc.cuny.edu/wiki/index.php/The_CUNY_Digital_Humanities_Resource_Guide): A collaboratively produced introduction to the field of DH as part of the CUNY Digital Humanities Initiative (DHI), a growing working group for applying digital technologies to research and pedagogy in the humanities.  
+[The CUNY Digital Humanities Resource Guide](http://commons.gc.cuny.edu/wiki/index.php/The_CUNY_Digital_Humanities_Resource_Guide): A collaboratively produced introduction to the field of DH as part of the CUNY Digital Humanities Initiative (DHI), a growing working group for applying digital technologies to research and pedagogy in the humanities.
+
 [Gettying Started in Digital Humanities](http://journalofdigitalhumanities.org/1-1/getting-started-in-digital-humanities-by-lisa-spiro/): A how-to guide by Lisa Spiro that offers step-by-step instructions on joining the DH field.
 
 1.3 Tutorials
