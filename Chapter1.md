@@ -78,7 +78,7 @@ An excellent list that includes the tools, tutorials, and resources that Alan Li
 
 *While the other chapters will offer projects more specific to the chapter topic, here is a list of Museum Digital Projects that are good to know for anyone getting to know the field of Digital Art History. Also, see the project lists compiled by the Center for History and New Media at George Mason University: [Art History Collections (Highlights)](http://arthistory2014.doingdh.org/art-history-collections-highlights/) and [Digital Art History Web Highlights](http://arthistory2014.doingdh.org/digital-art-history-web-highlights/).*
 
-Overviews
+_Overviews_
 
 [The Digital Museum](http://thedigitalmuseum.tumblr.com/): A blog presenting noteworthy digital projects in the cultural sector.
 
