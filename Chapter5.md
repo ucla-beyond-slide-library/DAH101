@@ -64,6 +64,7 @@ A Critical History of Computer Graphics and Animation (focus on sections 1 to 4,
 [SketchUp Help](http://help.sketchup.com/en): Got SketchUp questions? Need a walk through or some troubleshooting help? The Sketch Up Help page can point you in the right direction for finding the solution or resource you need.
 
 Archaeology Data Service / Digital Antiquity Guides to Good Practice:
+
 [“Laser Scanning for Archaeology.”](http://guides.archaeologydataservice.ac.uk/g2gp/LaserScan_Toc): This document serves as a guide to good practice for the collection and archival of point cloud datasets and the additional derived products produced by terrestrial laser scanners in cultural heritage applications.
 [“Close-Range Photogrammetry.”](http://guides.archaeologydataservice.ac.uk/g2gp/Photogram_Toc): This document serves as a guide to good practice for the documentation and archival of close-range photogrammetry (CRP) datasets and the additional derived products produced by digital photogrammetry in cultural heritage applications.
 
@@ -93,7 +94,7 @@ Archaeology Data Service / Digital Antiquity Guides to Good Practice:
 
 **5.4 Tools**
 
-*Building a 3D model is time-consuming. UCLA’s own Lisa Snyder](https://idre.ucla.edu/people/profiles/lisa-snyder) has spent her career building a [model of the 1893 Chicago World’s Fair](http://www.ust.ucla.edu/ustweb/Projects/columbian_expo.htm). However, there are a few tools with lower barriers to entry.*
+*Building a 3D model is time-consuming. UCLA’s own [Lisa Snyder](https://idre.ucla.edu/people/profiles/lisa-snyder) has spent her career building a [model of the 1893 Chicago World’s Fair](http://www.ust.ucla.edu/ustweb/Projects/columbian_expo.htm). However, there are a few tools with lower barriers to entry.*
 
 [SketchUp](http://www.sketchup.com/): SketchUp is the generally recognized starter-kit for building a 3D model. It is relatively easy to use, but it takes a significant amount of time to
 build something with it. However, its [documentation](http://www.sketchup.com/learn) is quite good.
