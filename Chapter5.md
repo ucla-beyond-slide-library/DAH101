@@ -65,8 +65,9 @@ A Critical History of Computer Graphics and Animation (focus on sections 1 to 4,
 
 Archaeology Data Service / Digital Antiquity Guides to Good Practice:
 
-[“Laser Scanning for Archaeology.”](http://guides.archaeologydataservice.ac.uk/g2gp/LaserScan_Toc): This document serves as a guide to good practice for the collection and archival of point cloud datasets and the additional derived products produced by terrestrial laser scanners in cultural heritage applications.
-[“Close-Range Photogrammetry.”](http://guides.archaeologydataservice.ac.uk/g2gp/Photogram_Toc): This document serves as a guide to good practice for the documentation and archival of close-range photogrammetry (CRP) datasets and the additional derived products produced by digital photogrammetry in cultural heritage applications.
+1\. [“Laser Scanning for Archaeology.”](http://guides.archaeologydataservice.ac.uk/g2gp/LaserScan_Toc): This document serves as a guide to good practice for the collection and archival of point cloud datasets and the additional derived products produced by terrestrial laser scanners in cultural heritage applications.
+
+2\. [“Close-Range Photogrammetry.”](http://guides.archaeologydataservice.ac.uk/g2gp/Photogram_Toc): This document serves as a guide to good practice for the documentation and archival of close-range photogrammetry (CRP) datasets and the additional derived products produced by digital photogrammetry in cultural heritage applications.
 
 [CyArk Archive](http://archive.cyark.org/): CyArk uses cutting edge technology to capture detailed 3D representations of world’s significant cultural heritage sites before they are lost to natural disasters, destroyed by human aggression or ravaged by the passage of time.
 
