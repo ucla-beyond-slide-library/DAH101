@@ -34,17 +34,13 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 
 [DHCommons](http://dhcommons.org/): The closest thing DH has to a registry of projects, DHCommons has recently been “adopted” by CenterNet (an organization of DH centers) and is branching out to include a journal with reviews of mid-state DH projects. Project participants contribute their own project descriptions, and people who are interested in working on DH projects can volunteer.
 
-[National Endowment for the Humanities Grants
-Database](https://securegrants.neh.gov/publicquery/main.aspx): An invaluable repository of projects funded by the National Endowment for the Humanities Office of Digital Humanities, including things like timelines, budget narratives, and other useful pieces of information. Restrict your search to the “Digital Humanities” division.
+[National Endowment for the Humanities Grants Database](https://securegrants.neh.gov/publicquery/main.aspx): An invaluable repository of projects funded by the National Endowment for the Humanities Office of Digital Humanities, including things like timelines, budget narratives, and other useful pieces of information. Restrict your search to the “Digital Humanities” division.
 
-[Drucker’s Project
-Repo](http://program.dh.ucla.edu/getty/index.php/drucker-project-repo/): This resource developed by Johanna Drucker sketches the history of Digital Art History through projects. There is also a connected presentation called “[Digital Art History?](http://program.dh.ucla.edu/getty/wp-content/uploads/2015/01/DAH_2015.ppt)” that explain the project repo in greater detail.
+[Drucker’s Project Repo](http://program.dh.ucla.edu/getty/index.php/drucker-project-repo/): This resource developed by Johanna Drucker sketches the history of Digital Art History through projects. There is also a connected presentation called “[Digital Art History?](http://program.dh.ucla.edu/getty/wp-content/uploads/2015/01/DAH_2015.ppt)” that explain the project repo in greater detail.
 
-[Digital Art History: Nuts &
-Bolts](http://program.dh.ucla.edu/getty/wp-content/uploads/2015/01/MBacaFor_UCLA_DAH_SummerInstitute2015.pdf): This presentation by Murtha Baca lays out some basics for doing digital art history.
+[Digital Art History: Nuts & Bolts](http://program.dh.ucla.edu/getty/wp-content/uploads/2015/01/MBacaFor_UCLA_DAH_SummerInstitute2015.pdf): This presentation by Murtha Baca lays out some basics for doing digital art history.
 
-[What is
-Digital\_Humanities?](https://www.dropbox.com/s/qkzf5ue3efddetb/Getty_DH_AH_Institute_Presner2015.ppt?dl=0): A presentation by Todd Presner that offers a brief introduction to Digital Humanities.
+[What is Digital\_Humanities?](https://www.dropbox.com/s/qkzf5ue3efddetb/Getty_DH_AH_Institute_Presner2015.ppt?dl=0): A presentation by Todd Presner that offers a brief introduction to Digital Humanities.
 
 [DH Toychest: Guides and Introductions](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244275/Guides%20and%20Introductions): A set of resources curated by Alan Liu that includes information on academic blogging and tweeting, the job market for DH graduate students, and evaluating DH scholarship for promotion and tenure.
 
@@ -59,19 +55,15 @@ Digital\_Humanities?](https://www.dropbox.com/s/qkzf5ue3efddetb/Getty_DH_AH_Inst
 
 [Programming Historian](http://programminghistorian.org/): A popular collection of tutorials aimed specifically at humanities scholars. That means the skills it teaches are things you’ll actually want to do, like scrape the web for research data and format it into tables.
 
-[“How Did They Make
-That?”](http://miriamposner.com/blog/how-did-they-make-that/): A guide to help DHers reverse-engineer digital projects to that they can re-create them on their own. See also the [video](http://miriamposner.com/blog/how-did-they-make-that-the-video/).
+[“How Did They Make That?”](http://miriamposner.com/blog/how-did-they-make-that/): A guide to help DHers reverse-engineer digital projects to that they can re-create them on their own. See also the [video](http://miriamposner.com/blog/how-did-they-make-that-the-video/).
 
-[Digital Humanities Questions &
-Answers](http://digitalhumanities.org/answers/): A bulletin board where DHers new and expert can ask each other questions. Beginner questions are welcome. It is a friendly and helpful community.
+[Digital Humanities Questions & Answers](http://digitalhumanities.org/answers/): A bulletin board where DHers new and expert can ask each other questions. Beginner questions are welcome. It is a friendly and helpful community.
 
 [LibGuides Community](http://libguides.com/community.php): The downside of LibGuides, the reference guides your library probably uses, is that they can be difficult to navigate and appear overwhelming. The upside is that you can search all the tutorials and reference guides (all written by experts) at once from this site. While this resource is less well-known, it can be extremely useful. Try searching, for example, for “text analysis.”
 
-[“Some Things I Hope You Will Find Useful Even if Statistics Isn’t Your
-Thing”](https://www.researchgate.net/publication/279236049_Some_Things_i_Hope_You_Will_Find_Useful_even_if_Statistics_Isn%27t_Your_Thing): An article by George L. Cowgill that may convince you that statistical analysis could benefit your project.
+[“Some Things I Hope You Will Find Useful Even if Statistics Isn’t Your Thing”](https://www.researchgate.net/publication/279236049_Some_Things_i_Hope_You_Will_Find_Useful_even_if_Statistics_Isn%27t_Your_Thing): An article by George L. Cowgill that may convince you that statistical analysis could benefit your project.
 
-[Statistics for the
-Humanities](http://statisticsforhumanities.net/book/): Developed by [John Canning](http://johncanning.net/), this resources is for those that find that they need mathematical skills for the advanced study of other subjects, including humanities and social science subjects.
+[Statistics for the Humanities](http://statisticsforhumanities.net/book/): Developed by [John Canning](http://johncanning.net/), this resources is for those that find that they need mathematical skills for the advanced study of other subjects, including humanities and social science subjects.
 
 1.4 Tools
 
