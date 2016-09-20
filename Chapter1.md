@@ -5,7 +5,7 @@ title: Chapter 1 Introduction/ Overview to DH and DAH
 *Digital Art History has a set of needs that can be more specific than what most Digital Humanities
 guides offer.  In this chapter, both fields are introduced and the differences between Digital Humanities (DH) and Digital Art History (DAH) are clarified.*
 
-**1.1 Readings**
+***1.1 Readings***
 
 Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art History. Vol. 29, no. 2. Special issue of Visual Resources Journal. March–June 2013.
 
