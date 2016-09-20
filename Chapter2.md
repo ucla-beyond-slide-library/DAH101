@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Chapter2
+title: Chapter 2: Scoping and Structuring Your Work: Data, Metadata, and Project Management
 ---
-***(Chapter 2) Scoping and Structuring Your Work: Data, Metadata, and
-Project Management***
+
 
 2.1 Readings
 
