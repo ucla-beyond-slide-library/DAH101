@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Chapter 2 Scoping and Structuring Your Work: Data, Metadata, and Project Management
+title: Chapter 2 Scoping and Structuring Your Work - Data, Metadata, and Project Management
 ---
-
-
 2.1 Readings
 
 [Appleford, Simon, and Jennifer Guiliano. “Designing Your First
