@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Chapter 1: Introduction/ Overview to DH and DAH
 ---
 *Digital Art History has a set of needs that can be more specific than what most Digital Humanities
