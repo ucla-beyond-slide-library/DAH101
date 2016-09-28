@@ -2,9 +2,16 @@
 layout: page
 title: 5. 3D and Modeling
 ---
-*In art historical exploration, recreating a setting or object can often lead to new or deeper understandings. Today's technologies offer a wide range of ways to create virtual facsimiles. Chapter 5 focuses on how three dimensional modeling can add to art historical research and study.*
+<a name="top">*In art historical exploration, recreating a setting or object can often lead to new or deeper understandings. Today's technologies offer a wide range of ways to create virtual facsimiles. Chapter 5 focuses on how three dimensional modeling can add to art historical research and study.*</a>
 
-**5.1 Readings**
++ <a href="#readings">Readings</a>
++ <a href="#resources">Resources</a>
++ <a href="#tutorials">Tutorials</a>
++ <a href="#tools">Tools</a>
++ <a href="#projects">Projects</a>
+
+---
+<a name="readings">**5.1 Readings**</a>
 
 Beacham, Richard. “THEATRON Final Report, September 2009.” eduserv and King’s College London.
 
@@ -52,7 +59,9 @@ Morgan, Colleen L. “(Re)building Çatalhöyük: changing virtual reality in ar
 
 [Snyder, Lisa M. “Virtual reality for humanities scholarship.” In *Digitizing Medieval and Early Modern Material Culture, New Technologies in Medieval and Renaissance Studies* 3, edited by Brent Nelson and Melissa Terras (Tempe and Toronto: ACMRS and ITER, 2012): 395-428.](http://books.scholarsportal.info/viewdoc.html?id=/ebooks/ebooks2/iter/2012-09-20/1/9780866984997-v3)
 
-**5.2 Resources**
+<a href="#top">*Back to the top.*</a>
+
+<a name="resources">**5.2 Resources**</a>
 
 A Critical History of Computer Graphics and Animation (focus on sections 1 to 4, 15 to 17):
 [http://design.osu.edu/carlson/history/lessons.html](http://design.osu.edu/carlson/history/lessons.html)
@@ -77,7 +86,9 @@ Archaeology Data Service / Digital Antiquity Guides to Good Practice:
 
 [CAST/The Virtual Hampson Museum](http://hampson.cast.uark.edu/): This website represents a Virtual Museum of 3D artifacts selected from the collections at the [Hampson Archeological Museum State Park](http://www.arkansasstateparks.com/hampsonmuseum/) in Wilson, Arkansas.
 
-**5.3 Tutorials**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tutorials">**5.3 Tutorials**</a>
 
 [SketchUp Basic Contents Tutorial](http://storage.googleapis.com/support-kmsprod/SNP_2600710_en_v0): This guide covers the numerous 3D design and SketchUp concepts found within the product and in the user community including: designing in SketchUp, drawing quickly, viewing models in 3 dimensions, adding detail to your model, presenting your model, modeling terrain and organic shapes.  This section was primarily written for users who are new to 3D modeling or SketchUp.  This section does not cover how to do something in SketchUp, but covers important concepts necessary to model in 3D.
 
@@ -93,7 +104,7 @@ Archaeology Data Service / Digital Antiquity Guides to Good Practice:
 
 [Vectorworks Getting Started Guides](http://www.vectorworks.net/training/2016/getting-started-guides): These guides are designed to provide you with a strong base as you learn to use Vectorworks to design, communicate, and document the ideas that you are passionate about. Click on the play button above to view the introduction video.
 
-**5.4 Tools**
+<a name="tools">**5.4 Tools**</a>
 
 *Building a 3D model is time-consuming. UCLA’s own [Lisa Snyder](https://idre.ucla.edu/people/profiles/lisa-snyder) has spent her career building a [model of the 1893 Chicago World’s Fair](http://www.ust.ucla.edu/ustweb/Projects/columbian_expo.htm). However, there are a few tools with lower barriers to entry.*
 
@@ -123,7 +134,9 @@ visualization.
 
 [Google Earth](http://www.google.com/earth/outreach/index.html): Google Earth lets you fly anywhere on Earth to view satellite imagery, terrain, 3D buildings, from galaxies in outer space to the canyons of the ocean. You can explore rich geographical content, save your toured places, and share with others in this free desktop and mobile application.
 
-**5.5 Projects**
+<a href="#top">*Back to the top.*</a>
+
+<a name="projects">**5.5 Projects**</a>
 
 1\. [Inscriptions](http://inscriptions.etc.ucla.edu/)
 
@@ -158,3 +171,5 @@ visualization.
 15\. [Paris 3D](http://paris.3ds.com/en-experience.html?lang=en)
 
 15\. [SecondLife](http://secondlife.com/): Search for and visit the Western Front (1917, Training Camp), the US Holocaust Memorial Museum, the ASU Virtual Heritage sites (There is both an island and a ‘south’ group and the Lakeport Plantation is also recommended), the Alamo, and the Mar Vista Architectural Reconstruction of a Gregory Ain house.
+
+<a href="#top">*Back to the top.*</a>
