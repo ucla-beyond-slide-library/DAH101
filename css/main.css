@@ -24,7 +24,7 @@ body, html {
 /* HTML5 display definitions
    ========================================================================== */
 
-article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary {
+article,details,figcaption,figure,footer,header,main,menu,nav,section,summary {
   display: block;
 }
 
@@ -553,49 +553,6 @@ h3:target + .taglist .return {
 /* --------------------------------------------------
    sidebar styles
 -----------------------------------------------------*/
-aside {
-	padding: 0 1em 0;
-}
-aside h3 {
-	color: #4d4d4d;
-	font-size: 1.4em;
-	margin-top: 1em;
-	margin-bottom: .4em;
-}
-aside p {
-	margin-left: 1em;
-}
-aside ul {
-	list-style: none;
-	padding: 0;
-	margin:0;
-	margin-left: 1em;
-}
-aside li {
-	margin-bottom: 0.5em;
-}
-.social {
-	display: flex;
-	justify-content: space-around;
-}
-.social a {
-	text-indent: -9000em;
-	display: inline-block;
-	width: 32px;
-	height: 32px;
-}
-.github {
-	background: url(../images/github.svg) no-repeat;
-}
-.fb {
-	background: url(../images/facebook.svg) no-repeat;
-}
-.linked {
-	background: url(../images/linkedin.svg) no-repeat;
-}
-.twitter {
-	background: url(../images/twitter.svg) no-repeat;
-}
 
 /* --------------------------------------------------
    main footer styles
@@ -720,18 +677,10 @@ body {
 	padding-top: 1em;
 }
 .posts, .archive {
-	float: right;
-	width: 70%;
+	float: center;
+	width: 90%;
 	padding-right: 2.5%;
 }
-aside {
-	float: left;
-	width: 30%;
-	max-width: 320px;
-	padding-top: 1em;
-	padding-left: 2.5%;
-}
-
 /* --------------------------------------------------
    header styles
 -----------------------------------------------------*/
