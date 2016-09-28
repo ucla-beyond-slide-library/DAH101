@@ -33,9 +33,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 
 [Zorich, Diane M. Transitioning to a Digital World: Art History, Its Research Centers, and Digital Scholarship. Samuel H. Kress Foundation and the Roy Rosenzweig Center for History and New Media, George Mason University, May 2012.](http://www.kressfoundation.org/news/article.aspx?id=35338)
 
-<a href="#top">**Back to the top.**</a>
+<a href="#top">*Back to the top.*</a>
 
----
 <a name="resources">**1.2 Resources**</a>
 
 *Effort is currently coalescing around DHCommons to create a master DH repository, but it is difficult to keep such a list current and comprehensive. The following links are starting points to finding more DH resources.*
@@ -56,8 +55,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 
 [Gettying Started in Digital Humanities](http://journalofdigitalhumanities.org/1-1/getting-started-in-digital-humanities-by-lisa-spiro/): A how-to guide by Lisa Spiro that offers step-by-step instructions on joining the DH field.
 
-<a href="#top">**Back to the top.**</a>
----
+<a href="#top">*Back to the top.*</a>
+
 <a name="tutorials">**1.3 Tutorials**</a>
 
 *You do not have to be a technical expert to do DAH work. However, a baseline understanding of popular tools and technologies can often prove very useful for determining your project's approach and methodology. The following resources offer tutorials on a wide range of tools to help you get your project done.*
@@ -76,8 +75,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 
 [Statistics for the Humanities](http://statisticsforhumanities.net/book/): Developed by [John Canning](http://johncanning.net/), this resources is for those that find that they need mathematical skills for the advanced study of other subjects, including humanities and social science subjects.
 
-<a href="#top">**Back to the top.**</a>
----
+<a href="#top">*Back to the top.*</a>
+
 <a name="tools">**1.4 Tools**</a>
 
 *These tool directories are a great place to start looking if you are unsure what is available to help you complete your project.*
@@ -87,8 +86,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 [DH Toychest: Digital Humanities Resources for Project Building](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244243/FrontPage):
 An excellent list that includes the tools, tutorials, and resources that Alan Liu uses in his DH courses at UC Santa Barbara.
 
-<a href="#top">**Back to the top.**</a>
----
+<a href="#top">*Back to the top.*</a>
+
 <a name="projects">**1.5 Projects**</a>
 
 *While the other chapters will offer projects more specific to the chapter topic, here is a list of Museum Digital Projects that are good to know for anyone getting to know the field of Digital Art History. Also, see the project lists compiled by the Center for History and New Media at George Mason University: [Art History Collections (Highlights)](http://arthistory2014.doingdh.org/art-history-collections-highlights/) and [Digital Art History Web Highlights](http://arthistory2014.doingdh.org/digital-art-history-web-highlights/).*
@@ -175,4 +174,4 @@ relationships](http://qldarch.net/beta/?page_id=5#/architect/relationships?archi
 
 [Ukiyo-E](http://ukiyo-e.org/): This federated catalogue of Japanese woodblock prints can retrieve visually similar prints and allows the user to identify similar prints by uploading an image.
 
-<a href="#top">**Back to the top.**</a>
+<a href="#top">*Back to the top.*</a>
