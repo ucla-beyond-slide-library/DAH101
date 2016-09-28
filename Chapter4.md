@@ -2,9 +2,16 @@
 layout: page
 title: 4. Maps and Space
 ---
-*Spatial data can be a critical part of constructing a digital art history project, whether it is following art markets, understanding building constructions, or tracking the provenance of a particular artwork. In this section, you will find resources dedicated to defining what spatial data is and how it can be displayed using various mapping platforms.*
+<a name="top">*Spatial data can be a critical part of constructing a digital art history project, whether it is following art markets, understanding building constructions, or tracking the provenance of a particular artwork. In this section, you will find resources dedicated to defining what spatial data is and how it can be displayed using various mapping platforms.*</a>
 
-**4.1 Readings**
++ <a href="#readings">Readings</a>
++ <a href="#resources">Resources</a>
++ <a href="#tutorials">Tutorials</a>
++ <a href="#tools">Tools</a>
++ <a href="#projects">Projects</a>
+
+---
+<a name="readings">**4.1 Readings**</a>
 
 Dunn, Stuart. “Space as an Artefact.” In *Digital Research in the Study of Classical Antiquity*, 2008.
 
@@ -16,13 +23,17 @@ Dunn, Stuart. “Space as an Artefact.” In *Digital Research in the Study of C
 
 [Presner, Todd Samuel, David Shepard, and Yoh Kawano. *Hypercities: Thick Mapping in the Digital Humanities*. Cambridge Mass.: Harvard University Press, 2014.](https://ccle.ucla.edu/course/view/dah2015summer?section=6)
 
-**4.2 Resources**
+<a href="#top">*Back to the top.*</a>
+
+<a name="resources">**4.2 Resources**</a>
 
 [The Geospatial Historian](http://geospatialhistorian.wordpress.com/): A sibling to The Programming Historian, The Geospatial Historian offers a growing collection of well-edited step-by-step tutorials.
 
 [Geocoding Your Data](http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/mapping/): A list of several options to add latitudes and longitudes to your data.
 
-**4.3 Tutorials**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tutorials">**4.3 Tutorials**</a>
 
 [Moving Around Geocoordinates](http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/mapping/retrieve-geocoordinates-from-one-spreadsheet-and-put-them-in-another/): Retrieve geocoordinates from one spreadsheet and put them in another.
 
@@ -30,7 +41,9 @@ Dunn, Stuart. “Space as an Artefact.” In *Digital Research in the Study of C
 
 [“Journey to the open data jungle with OpenRefine, CartoDB, Leaflet and Javascript,” Opensas Blog](https://opensas.wordpress.com/2013/06/27/journey-to-the-open-data-jungle-with-openrefine-cartodb-leaflet-and-javascript/): A tutorial that illustrates how to go from raw, messy data to spreadsheet to map and finally to web service.
 
-**4.4 Tools**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tools">**4.4 Tools**</a>
 
 [Google Fusion Tables:](https://sites.google.com/site/fusiontablestalks/stories) An experimental data visualization web application to gather, visualize, and share data tables.
 
@@ -53,7 +66,9 @@ is very helpful. [Example](http://ricedh.github.io/01-palladio.html).
 
 [CartoDB](http://cartodb.com/): An easy-to-use mapping platform that also has some advanced features. Uploading a spreadsheet of data is straightforward (CartoDB can grab latitudes and longitudes for you if you do not already have them), and mapping data is a matter of a few clicks. CartoDB maps tend to look really nice, and you can custom-style them if you know CSS. However, CartoDB only lets you work with 50 MB of data for free; after that, you have to pay. CartoDB’s [documentation](http://cartodb.com/docs) is excellent. [Example.](http://www.afdc.energy.gov/locator/stations/)
 
-**4.5 Projects**
+<a href="#top">*Back to the top.*</a>
+
+<a name="projects">**4.5 Projects**</a>
 
 1\. [HyperCities projects](http://thebook.hypercities.com/)
 
@@ -68,3 +83,5 @@ is very helpful. [Example](http://ricedh.github.io/01-palladio.html).
 6\. [T-RACES](http://salt.unc.edu/T-RACES/)
 
 7\. [Mapping the Republic of Letters](http://republicofletters.stanford.edu/)
+
+<a href="#top">*Back to the top.*</a>
