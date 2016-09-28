@@ -2,9 +2,16 @@
 layout: page
 title: 2. Scoping and Structuring Your Work - Data, Metadata, and Project Management
 ---
-*A successful digital art history project starts with good data that is well managed. Chapter 2 focuses on what art historical data is and how it can be organized to start a digital project. The resources in this chapter will explain best practices for data cleaning, storage, and standards for art historical content.*  
+<a name="top">*A successful digital art history project starts with good data that is well managed. Chapter 2 focuses on what art historical data is and how it can be organized to start a digital project. The resources in this chapter will explain best practices for data cleaning, storage, and standards for art historical content.*</a>
 
-**2.1 Readings**
++ <a href="#readings">Readings</a>
++ <a href="#resources">Resources</a>
++ <a href="#tutorials">Tutorials</a>
++ <a href="#tools">Tools</a>
++ <a href="#projects">Projects</a>
+
+---
+<a name="readings">**2.1 Readings**</a>
 
 [Appleford, Simon, and Jennifer Guiliano. “Designing Your First Project.” DevDH.org, 2013.](http://devdh.org/lectures/design/)
 
@@ -28,7 +35,9 @@ Rosenberg. “Data before the Fact.” In *Raw Data Is an Oxymoron*, edited by L
 
 [Wallack, Jessica Seddon, and Ramesh Srinivasan. “Local-Global: Reconciling Mismatched Ontologies in Development Information Systems.” In *System Sciences, 2009. HICSS’09*. *42nd Hawaii International Conference on*, 1–10, 2009.](http://rameshsrinivasan.org/wordpress/wp-content/uploads/2013/03/18-WallackSrinivasanHICSS.pdf)
 
-**2.2 Resources**
+<a href="#top">*Back to the top.*</a>
+
+<a name="resources">**2.2 Resources**</a>
 
 [“Introduction to Data-Cleaning”](http://schoolofdata.org/courses/#IntroDataCleaning): The School of Data offers a helpful overview on data-cleaning in general.
 
@@ -59,7 +68,9 @@ providing subject access to collections using standards.
 
 [Digital Methods in Art History](http://program.dh.ucla.edu/getty/wp-content/uploads/2015/01/Digital-Methods-for-Art-Historyx.doc): A list of digital art historical methods developed by Johanna Drucker
 
-**2.3 Tutorials**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tutorials">**2.3 Tutorials**</a>
 
 *For Data*
 
@@ -117,7 +128,9 @@ objects unique? Item types in Omeka are user-defined type of object, with associ
 [Workflow for Planning a Digital Project, by Johanna Drucker](http://program.dh.ucla.edu/getty-2014/wp-content/uploads/Johannas-Workflow-for-Digital-Projects.pdf): If you are just starting a digital project for the first time, this short resource will
 help you plan appropriately.
 
-**2.4 Tools**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tools">**2.4 Tools**</a>
 
 *Data*
 
@@ -169,7 +182,9 @@ collections and arranging them into stories.*
 
 [Google Open Gallery](http://www.google.com/opengallery): This is a very new platform, so details are scarce, but it’s an exhibit platform that appears to have some nice visual features, good search and filtering capabilities, and a low learning curve. You have to request a login, which takes about a week. [Example](http://belgian-comic-strip-center.culturalspot.org/home).
 
-**2.5 Projects**
+<a href="#top">*Back to the top.*</a>
+
+<a name="projects">**2.5 Projects**</a>
 
 1\. [Getty Provenance Index](http://www.getty.edu/research/tools/provenance/)
 
@@ -208,3 +223,5 @@ collections and arranging them into stories.*
 18\. Baca, Murtha, et al., *Pietro Mellini's Inventory in Verse, 1681: A Digital Facsimile with Translation and Commentary*, (Los Angeles: Getty Research Institute, 2015), <http://hdl.handle.net/10020/mellini>.
 
 19\. Delphine Burlot, Martine Denoyelle (dir.). *Élie-Honoré Montagny's Recueil d'Antiquités, A Digital Critical Edition*. Paris : Institut national d'histoire de l'art. Disponible sur [http://digitalmontagny.inha.fr/](http://digitalmontagny.inha.fr/en) (Consulté le jj/mm/aaaa).
+
+<a href="#top">*Back to the top.*</a>
