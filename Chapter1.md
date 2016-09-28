@@ -9,7 +9,7 @@ title: 1. Introduction/ Overview to DH and DAH
 + <a href="#tutorials">Tutorials</a>
 + <a href="#tools">Tools</a>
 + <a href="#projects">Projects</a>
-
+---
 <a name="readings">**1.1 Readings**</a>
 
 Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art History. Vol. 29, no. 2. Special issue of Visual Resources Journal. March–June 2013.
