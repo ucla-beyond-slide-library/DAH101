@@ -2,9 +2,16 @@
 layout: page
 title: 6. Next Steps and Pedagogy
 ---
-*The Digital Humanities is a growing field, with new technologies and techniques surfacing regularly. It is also quite a large field. While the previous chapters have offered a solid foundation, this final chapter offers a few more advanced techniques.  It also contains pedagogical content to help teach about DH tools and methodologies.*
+<a name="top">*The Digital Humanities is a growing field, with new technologies and techniques surfacing regularly. It is also quite a large field. While the previous chapters have offered a solid foundation, this final chapter offers a few more advanced techniques.  It also contains pedagogical content to help teach about DH tools and methodologies.*</a>
 
-**6.1 Readings**
++ <a href="#readings">Readings</a>
++ <a href="#resources">Resources</a>
++ <a href="#tutorials">Tutorials</a>
++ <a href="#tools">Tools</a>
++ <a href="#projects">Projects</a>
+
+---
+<a name="readings">**6.1 Readings**</a>
 
 [Bale, K., et al. “Linking evidence with heritage visualization using a large scale collaborative interface,” In the proceedings of VAST11: International Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage. (2011).](http://diglib.eg.org/handle/10.2312/VAST.VAST11.121-128)
 
@@ -52,7 +59,9 @@ Steed, Anthony and Doug A. Bowman. “Displays and interaction for virtual trave
 
 Virtual Environments, edited by F. Steinicke et al (New York: Springer Science+Business Media, 2013), 147-175.
 
-**6.2 Resources**
+<a href="#top">*Back to the top.*</a>
+
+<a name="resources">**6.2 Resources**</a>
 
 [Check IT Out!: Checking digital research support for the humanities at your university](http://4humanities.org/check-it-out/), by Geoff Rockwell
 
@@ -116,11 +125,15 @@ Professor Lauren Klein, Georgia Institute of Technology
 
 Professor Quinn Warnick, Virginia Tech
 
-**6.3 Tutorials**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tutorials">**6.3 Tutorials**</a>
 
 [HTML and CSS Basics](http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/html-css/): Resources to learn the basics of writing of code.
 
-**6.4 Tools**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tools">**6.4 Tools**</a>
 
 [Timemapper](http://timemapper.okfnlabs.org/): Create elegant timelines and maps in seconds that can be customized and embedded into a webpage. This is an easy and open-source tool, which uses a slide show feature to help users navigate through time and space.
 
@@ -131,8 +144,12 @@ source of information about it. [Example](http://ibnjubayr.lib.virginia.edu/view
 
 [MyHistro](http://www.myhistro.com/): Watch and read thousands of fascinating timelines, or create your own. Complete with text, video and pictures to create a dynamic timeline mashup. Using myHistro, you can combine maps and timelines seamlessly into one great presentation, convert any public timeline into a personal pdf file, or export it into Google Earth format for offline storage. All completed timelines can be embedded into your blog and websites for maximum exposure
 
-**6.5 Projects**
+<a href="#top">*Back to the top.*</a>
+
+<a name="projects">**6.5 Projects**</a>
 
 1\. [Amiens Cathedral Project](http://learn.columbia.edu/Mcahweb/index-frame.html)
 
 2\. [Augmented Asbury Park](http://www.augmentedasburypark.com/)
+
+<a href="#top">*Back to the top.*</a>
