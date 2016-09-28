@@ -678,8 +678,9 @@ body {
 }
 .posts, .archive {
 	float: center;
-	width: 90%;
+	width: 95%;
 	padding-right: 2.5%;
+  padding-left: 2.5%;
 }
 /* --------------------------------------------------
    header styles
