@@ -2,7 +2,7 @@
 layout: page
 title: 1. Introduction/ Overview to DH and DAH
 ---
-<a href="#readings">Readings</a> | <a href="#resources">Resources</a> | <a href="#tutorials">Tutorials</a> | <a href="#tools">Tools</a> | <a href="#projects">Projects</a>
+| <a href="#readings">Readings</a> | <a href="#resources">Resources</a> | <a href="#tutorials">Tutorials</a> | <a href="#tools">Tools</a> | <a href="#projects">Projects</a> |
 
 *Digital Art History has a set of needs that can be more specific than what most Digital Humanities
 guides offer.  In this chapter, both fields are introduced and the differences between Digital Humanities (DH) and Digital Art History (DAH) are clarified.*
