@@ -38,5 +38,10 @@
 </nav>
 </header>
 {{content}}
+   {% if page.id %}
+   {% include footer-post.html %}
+   {% else %}
+      {% include footer.html %}
+   {% endif %}
 </body>
 </html>
