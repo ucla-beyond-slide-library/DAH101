@@ -2,9 +2,16 @@
 layout: page
 title: 3. Information Visualization
 ---
-*“Data visualization” covers all kinds of visualizations. This chapter serves as an introduction to visualizing data, with all of the benefits and drawbacks of turning information into graphics, both practically and intellectually. While mapping is a kind of visualization as well, the next chapter is specifically dedicated to geospatial data.*
+<a name="top">*“Data visualization” covers all kinds of visualizations. This chapter serves as an introduction to visualizing data, with all of the benefits and drawbacks of turning information into graphics, both practically and intellectually. While mapping is a kind of visualization as well, the next chapter is specifically dedicated to geospatial data.*</a>
 
-**3.1 Readings**
++ <a href="#readings">Readings</a>
++ <a href="#resources">Resources</a>
++ <a href="#tutorials">Tutorials</a>
++ <a href="#tools">Tools</a>
++ <a href="#projects">Projects</a>
+
+---
+<a name="readings">**3.1 Readings**</a>
 
 [Drucker, DH101 Coursebook, Lessons 4B and 5A](http://dh101.humanities.ucla.edu/)
 
@@ -26,7 +33,9 @@ title: 3. Information Visualization
 
 [Yau, Nathan. “Representing Data.” In *Data Points: Visualization That Means Something*, 92–133, 2013. ](http://flowingdata.com/data-points/DataPoints-Ch3.pdf)
 
-**3.2 Resources**
+<a href="#top">*Back to the top.*</a>
+
+<a name="resources">**3.2 Resources**</a>
 
 [Visualising Data](http://www.visualisingdata.com/resources/): For more data visualization tools.
 
@@ -48,7 +57,9 @@ materials.
 
 [Social Network Analysis Glossary](http://miriamposner.com/dh101f15/wp-content/uploads/2015/10/Social-Network-Analysis-Glossary.docx): This glossary will help you understand the basic terms that are used in network analysis.
 
-**3.3 Tutorials**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tutorials">**3.3 Tutorials**</a>
 
 [Make a Pivot Table with Excel](http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/make-a-pivot-table-with-excel/): A pivot table summarizes data values.
 
@@ -62,7 +73,9 @@ materials.
 
 [Nodes Lists and Edge Lists](http://miriamposner.com/dh101f15/index.php/tutorials-and-resources/node-lists-and-edge-lists/): To build a network diagram, you need a list of nodes (the individual actors) and a list of edges (the relationships between the actors).
 
-**3.4 Tools**
+<a href="#top">*Back to the top.*</a>
+
+<a name="tools">**3.4 Tools**</a>
 
 *General*
 
@@ -93,7 +106,9 @@ image processing program [ImageJ](http://rsbweb.nih.gov/ij/)[.](http://lab.softw
 
 [TinEye](https://www.tineye.com/): Feed TinEye an image and it will scour the web for visually similar images.
 
-**3.5 Projects**
+<a href="#top">*Back to the top.*</a>
+
+<a name="projects">**3.5 Projects**</a>
 
 1\. [10 Best Data Visualization Projects of the Year – 2010](http://flowingdata.com/2010/12/14/10-best-data-visualization-projects-of-the-year-%E2%80%93-2010/)
 
@@ -108,3 +123,5 @@ image processing program [ImageJ](http://rsbweb.nih.gov/ij/)[.](http://lab.softw
 6\. [Art as Data as Art](http://blog.ironholds.org/art-as-data-as-art/)
 
 7\. [Mapping Gothic France](http://mappinggothic.org/)
+
+<a href="#top">*Back to the top.*</a>
