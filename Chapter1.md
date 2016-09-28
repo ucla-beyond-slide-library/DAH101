@@ -9,6 +9,7 @@ title: 1. Introduction/ Overview to DH and DAH
 + <a href="#tutorials">Tutorials</a>
 + <a href="#tools">Tools</a>
 + <a href="#projects">Projects</a>
+
 ---
 <a name="readings">**1.1 Readings**</a>
 
