@@ -2,8 +2,7 @@
 layout: page
 title: 1. Introduction/ Overview to DH and DAH
 ---
-*Digital Art History has a set of needs that can be more specific than what most Digital Humanities
-guides offer.  In this chapter, both fields are introduced and the differences between Digital Humanities (DH) and Digital Art History (DAH) are clarified.*
+<a name="top">*Digital Art History has a set of needs that can be more specific than what most Digital Humanities guides offer.  In this chapter, both fields are introduced and the differences between Digital Humanities (DH) and Digital Art History (DAH) are clarified.*</a>
 
 + <a href="#readings">Readings</a>
 + <a href="#resources">Resources</a>
@@ -33,6 +32,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 
 [Zorich, Diane M. Transitioning to a Digital World: Art History, Its Research Centers, and Digital Scholarship. Samuel H. Kress Foundation and the Roy Rosenzweig Center for History and New Media, George Mason University, May 2012.](http://www.kressfoundation.org/news/article.aspx?id=35338)
 
+<a href="#top">Back to the top.</a>
+
 <a name="resources">**1.2 Resources**</a>
 
 *Effort is currently coalescing around DHCommons to create a master DH repository, but it is difficult to keep such a list current and comprehensive. The following links are starting points to finding more DH resources.*
@@ -53,6 +54,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 
 [Gettying Started in Digital Humanities](http://journalofdigitalhumanities.org/1-1/getting-started-in-digital-humanities-by-lisa-spiro/): A how-to guide by Lisa Spiro that offers step-by-step instructions on joining the DH field.
 
+<a href="#top">Back to the top.</a>
+
 <a name="tutorials">**1.3 Tutorials**</a>
 
 *You do not have to be a technical expert to do DAH work. However, a baseline understanding of popular tools and technologies can often prove very useful for determining your project's approach and methodology. The following resources offer tutorials on a wide range of tools to help you get your project done.*
@@ -70,6 +73,8 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 [“Some Things I Hope You Will Find Useful Even if Statistics Isn’t Your Thing”](https://www.researchgate.net/publication/279236049_Some_Things_i_Hope_You_Will_Find_Useful_even_if_Statistics_Isn%27t_Your_Thing): An article by George L. Cowgill that may convince you that statistical analysis could benefit your project.
 
 [Statistics for the Humanities](http://statisticsforhumanities.net/book/): Developed by [John Canning](http://johncanning.net/), this resources is for those that find that they need mathematical skills for the advanced study of other subjects, including humanities and social science subjects.
+
+<a href="#top">Back to the top.</a>
 
 <a name="tools">**1.4 Tools**</a>
 
@@ -165,3 +170,5 @@ relationships](http://qldarch.net/beta/?page_id=5#/architect/relationships?archi
 [The Variable Media Initiative, Guggenheim Museum](http://www.guggenheim.org/new-york/collections/conservation/conservation-projects/variable-media): A nontraditional preservation strategy to preserve media-based and performative works by defining the artwork independently from the medium.
 
 [Ukiyo-E](http://ukiyo-e.org/): This federated catalogue of Japanese woodblock prints can retrieve visually similar prints and allows the user to identify similar prints by uploading an image.
+
+<a href="#top">Back to the top.</a>
