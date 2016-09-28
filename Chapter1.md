@@ -34,6 +34,7 @@ Baca, Murtha, Anne Helmreich, and Nuria Rodríguez Ortega, eds. Digital Art Hist
 [Zorich, Diane M. Transitioning to a Digital World: Art History, Its Research Centers, and Digital Scholarship. Samuel H. Kress Foundation and the Roy Rosenzweig Center for History and New Media, George Mason University, May 2012.](http://www.kressfoundation.org/news/article.aspx?id=35338)
 
 <a href="#top">**Back to the top.**</a>
+
 ---
 <a name="resources">**1.2 Resources**</a>
 
