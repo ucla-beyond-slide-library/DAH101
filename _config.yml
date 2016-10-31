@@ -11,7 +11,6 @@ email: your-email@domain.com
 description: "Textbook based on the work completed during Beyond the Digitized Slide Library, an institute at the University of California, Los Angeles. Major support for the program provided by the Getty Foundation. This resource covers debates and key concepts in the digital humanities to gain hands-on experience with tools and techniques for art historical research (including metadata basics, data visualization, network graphs, and digital mapping)."
 baseurl: "/DAH101" # the subpath of your site, e.g. /blog
 url: "https://ucla-beyond-slide-library.github.io/DAH101" # the base hostname & protocol for your site
-
 tagline: "A basic guide to Digital Art Hsitory"
 
 # Build settings
